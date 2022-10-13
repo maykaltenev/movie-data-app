@@ -1,1 +1,1 @@
-# movie-data-app
+# Full Stack Movie Data Application
